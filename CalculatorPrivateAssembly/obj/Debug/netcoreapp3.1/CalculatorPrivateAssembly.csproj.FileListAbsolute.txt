@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\bin\Debug\netcoreapp3.1\CalculatorPrivateAssembly.deps.json
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\bin\Debug\netcoreapp3.1\CalculatorPrivateAssembly.dll
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\bin\Debug\netcoreapp3.1\CalculatorPrivateAssembly.pdb
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.dll
+C:\Users\ADMIN\source\repos\CalculatorPrivateAssembly\obj\Debug\netcoreapp3.1\CalculatorPrivateAssembly.pdb
